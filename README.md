@@ -49,4 +49,4 @@ To get started with the course, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/krsna016/data-science-masters-2.0.git
+   git clone https://github.com/krsna016/python-data-visualization-libraries-ineuron
